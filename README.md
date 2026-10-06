@@ -9,5 +9,5 @@ ReDINO: Structure-Guided Semantic Retrieval and Differential Refinement from Fro
 Clone the DINOv3 repository:
 
 ```bash
-git clone https://github.com/facebookresearch/dinov3.git
+git clone https://github.com/friay/ReDINO.git
 ```
